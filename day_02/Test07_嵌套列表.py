@@ -1,0 +1,6 @@
+field = ['a', 'b', 'c']
+num = [1, 2, 3]
+mix = [field, num]
+print(mix)  # [['a', 'b', 'c'], [1, 2, 3]]
+print(mix[0])  # ['a', 'b', 'c']
+print(mix[1])  # [1, 2, 3]
