@@ -6,9 +6,9 @@ upper()方法语法如下：
 """
 
 field = 'do it now'
-print(field.upper())#DO IT NOW
+print(field.upper())  # DO IT NOW
 greeting = 'Hello,World'
-print(greeting.upper())#HELLO,WORLD
+print(greeting.upper())  # HELLO,WORLD
 print('--------------------------------------')
 
 """
