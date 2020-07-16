@@ -51,3 +51,7 @@ class Cat:
 tom = Cat()
 tom.eat()  # 小猫爱吃鱼
 tom.drink()  # 小猫要喝水
+print(tom)  # <__main__.Cat object at 0x000001B29FE42388>
+print(id(tom))  # 1439726248840
+print("---------------------------")
+
